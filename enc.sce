@@ -136,8 +136,8 @@ end;
 #end F1
 
 ############ Randomization ################################################
-#########################################################################
-string picPath = "Y:/01_Studien/Experimentelle Paradigmen/Object-Location-Memory/OLM_Presentation/Ver_20220208_56_tastatur/images";
+###########################################################################
+string picPath = "/images";	# Path to your picturefiles
 							  
 
 string id = logfile.subject();
