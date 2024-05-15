@@ -141,7 +141,7 @@ end;
 
 ############ Randomization ################################################
 #########################################################################
-string picPath = "C:/Users/malinowskir/Desktop/Ver_20220208_touch/images/testrunIm";
+string picPath = "/images/testrunIm";
 									  
 
 int SPALTEN = 4;
